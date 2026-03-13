@@ -15,7 +15,7 @@ We will be using Power BI Services (hereafter "Power BI"), which is an online to
   </a>
 
 ## Step 2 - Create a workspace
-- Click on *Workspaces* on the left panel on the Power BI trial homepage, then:
+- Click on *Workspaces* on the left panel on the Power BI site, then:
   - on the *Name* field, give a name to your new workspace
   - on the *Workspace type* field, choose *Fabric Trial*
   - leave other fields as default and click on *Apply* at the bottom
