@@ -17,25 +17,25 @@ Create a semantic model as a new item under your workspace:
 <a href="" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/create_semantic_model.png?raw=true" alt="DESCRIPTION" width="600">
 </a>
-
+<br>
 Choose csv as the data sources for your semantic model. You CANNOT upload the csv file without OneDrive for business account. Instead, provide a PUBLIC github repo link where a csv file is saved to. Start with one of the file first:
 
 <a href="" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/csv_link.png?raw=true" alt="DESCRIPTION" width="600">
 </a>
-
+<br>
 When Power BI successfully reads your csv file, you are able to preview the data. Now you can click on *New source* and provide the link to the second csv file:
 
 <a href="" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/additional_csv_link.png?raw=true" alt="DESCRIPTION" width="600">
 </a>
-
+<br>
 After Power BI has read all of your data sources, you can confirm the creation of this semantic model by clicking on *Create a semantic model only*:
 
 <a href="" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/create_semantic_model_2.png?raw=true" alt="DESCRIPTION" width="600">
 </a>
-
+<br>
 Now, a semantic model containing two separate tables are now available under your workspace. 
 
 ### Step 2 - Establish relationships between tables
