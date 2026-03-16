@@ -75,6 +75,13 @@ To create a measure, click on *New measure* on the top panel. You can then choos
 </a>
 <br>
 
+Try also creating another measure calculating the total salary ONLY for those middle level engineers:
+```cmd
+Total Salary Middle = CALCULATE(SUM(salaries[salary_in_usd]), salaries[experience_level]="MI")
+```
+
+These measures will be used to visualize KPIs in the next chapter. 
+
 ## Other videos 📹
 
 ## Read more 👓
