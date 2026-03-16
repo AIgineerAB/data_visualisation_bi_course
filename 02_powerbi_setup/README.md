@@ -27,4 +27,6 @@ We will be using Power BI Services (hereafter "Power BI"), which is an online to
 ## Other videos 📹
 
 ## Read more 👓
+[]()
+[]()
 
