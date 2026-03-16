@@ -6,14 +6,32 @@ Our data sources are two csv files that you can find under the *data* subfolder.
 Apart from csv files, you can also use other types of data sources, like databases and API endpoints. 
 
 ## Semantic model
-A semantic model is the intermediate layer between data sources and visualizations. It can connect to and transform one or more data sources, making them ready for visualizations. Therefore, for creating visualizations in Power BI, one needs to first identify your data sources, create a semantic model to combine/transform these data sources and use this semantic model as the structured data to create visualizations (reports or dashboards).
+A semantic model is the intermediate layer between data sources and visualizations. It can connect to one or more data sources and enrich them, providing a single truth of data for further visualizations. 
+
+Therefore, for creating visualizations in Power BI, one needs to first identify your data sources, create a semantic model to combine/enrich these data sources and use this semantic model as the structured data to create visualizations (reports or dashboards).
 
 Let's prepare a semantic model together:
 ### Step 1 - Create a semantic model with multiple csv files
 
-### Step 2 - 
+<a href="" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/create_semantic_model.png?raw=true" alt="DESCRIPTION" width="600">
+</a>
 
-### Step 3 - 
+<a href="" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/csv_link.png?raw=true" alt="DESCRIPTION" width="600">
+</a>
+
+<a href="" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/additional_csv_link.png?raw=true" alt="DESCRIPTION" width="600">
+</a>
+
+<a href="" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/create_semantic_model_2.png?raw=true" alt="DESCRIPTION" width="600">
+</a>
+
+### Step 2 - Establish relationships between tables
+
+### Step 3 - Add calculated measures using DAX
 
 
 ## Other videos 📹
