@@ -50,7 +50,7 @@ Now, a semantic model containing two disconnected tables are now available under
 >TODO: how to connect to excel files and API
 
 ### Step 2 - Establish relationships between tables
-A relationship between two tables allows filtering the data of one table using a column in another table. For instance, in our example, in the *salaries* table, the column, *company_location*, shows the 2-digit country/territory code of the company for each worker. However, if we want to calculate the summation of salary of all workers working in a company in a specific continent, we need to make use of the *continent* column in the *countries* table. This is possible only if the two tables are connected by a relationship. 
+A relationship between two tables allows filtering the data of one table using a column in another table. For instance, in our example, in the *salaries* table, the column, *company_location*, shows the 2-digit country/territory code of the company for each worker. However, if we want to show the summation of salary of all workers working in a company in a specific continent, we need to make use of the *continent* column in the *countries* table. This is possible only if the two tables are connected by a relationship. 
 
 To create a relationship, click on *Manage relationships* in the top panel and then *+ New relationship*. Here, you can select columns with which two tables can be connected and the cardinality of this relationship:
 <br>
@@ -64,15 +64,22 @@ When this is done, the relationship will be visible in your semantic model:
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/show_relationship.png?raw=true" alt="DESCRIPTION" width="600">
 </a>
 <br>
-In the next step, we will be looking at how this relationship can help the creation of KPI.
 
 ### Step 3 - Add calculated measures using DAX
+A calculated measure is a single value returned by a Data Analytics Expressions (DAX) query. It can be used as a dynamic KPI in a Power BI visualization when a user interacts by, for instance, using a filter.
 
+To create a measure, click on *New measure* on the top panel. You can then choose a name for your measure and write the DAX query to define how your measure should be calculated. For instance, you can create a measure to calculate the summation of all values of the *salary_in_usd* column in the *salaries* table: 
+<br>
+<a href="" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/create_measure.png?raw=true" alt="DESCRIPTION" width="600">
+</a>
+<br>
 
 ## Other videos 📹
 
 ## Read more 👓
 [Power BI data connection documentation](https://learn.microsoft.com/en-us/power-bi/connect-data/) <br>
-[Power BI data transformation documentation](https://learn.microsoft.com/en-us/power-bi/transform-model/)
-[Create a relationship](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-create-and-manage-relationships)
-[Create a measure](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-tutorial-create-measures)
+[Power BI data transformation documentation](https://learn.microsoft.com/en-us/power-bi/transform-model/)<br>
+[Create a relationship](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-create-and-manage-relationships)<br>
+[Create a measure](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-tutorial-create-measures)<br>
+[DAX basics](https://learn.microsoft.com/en-us/power-bi/transform-model/desktop-quickstart-learn-dax-basics)
