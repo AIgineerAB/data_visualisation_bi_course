@@ -51,14 +51,17 @@ Now, a semantic model containing two disconnected tables are now available under
 ><details>
 ><summary>Connect to web API data</summary>
 >When creating a semantic model, select <i>Get Data</i>:
+><br>
 ><a href="" target="_blank">
 >  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/create_semantic_model_3.png?raw=true" alt="DESCRIPTION" width="600">
 ></a>
 >Choose <i>Web API</i> as your data source:
+><br>
 ><a href="" target="_blank">
 >  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/web_api.png?raw=true" alt="DESCRIPTION" width="600">
 ></a>
 >Try the Jobsearch API from Arbetsförmedlingen:
+><br>
 ><a href="" target="_blank">
 >  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/jobsearch_api.png?raw=true" alt="DESCRIPTION" width="600">
 ></a>
@@ -66,14 +69,17 @@ Now, a semantic model containing two disconnected tables are now available under
 ><details>
 ><summary>Connect to excel data</summary>
 >When creating a semantic model, select <i>Excel</i>:
+><br>
 ><a href="" target="_blank">
 >  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/get_data_excel.png?raw=true" alt="DESCRIPTION" width="600">
 ></a>
 >Copy the link of an excel file in a public github repo:
+><br>
 ><a href="" target="_blank">
 >  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/excel_link.png?raw=true" alt="DESCRIPTION" width="600">
 ></a>
 >Select the sheet from the excel file:
+><br>
 ><a href="" target="_blank">
 >  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/select_sheet.png?raw=true" alt="DESCRIPTION" width="600">
 ></a>
