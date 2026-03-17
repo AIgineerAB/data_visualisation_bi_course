@@ -65,7 +65,18 @@ Now, a semantic model containing two disconnected tables are now available under
 ></details>
 ><details>
 ><summary>Connect to excel data</summary>
->Your hidden content goes here.
+>When creating a semantic model, select <i>Excel</i>:
+><a href="" target="_blank">
+>  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/get_data_excel.png?raw=true" alt="DESCRIPTION" width="600">
+></a>
+>Copy the link of an excel file in a public github repo:
+><a href="" target="_blank">
+>  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/excel_link.png?raw=true" alt="DESCRIPTION" width="600">
+></a>
+>Select the sheet from the excel file:
+><a href="" target="_blank">
+>  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/select_sheet.png?raw=true" alt="DESCRIPTION" width="600">
+></a>
 ></details>
 
 ### Step 2 - Establish relationships between tables
