@@ -47,7 +47,26 @@ Now, a semantic model containing two disconnected tables are now available under
 </a>
 
 >[!TIP]
->TODO: how to connect to excel files and API
+>Alternatively, you can
+><details>
+><summary>Connect to web API data</summary>
+>When creating a semantic model, select <i>Get Data</i>:
+><a href="" target="_blank">
+>  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/create_semantic_model_3.png?raw=true" alt="DESCRIPTION" width="600">
+></a>
+>Choose <i>Web API</i> as your data source:
+><a href="" target="_blank">
+>  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/web_api.png?raw=true" alt="DESCRIPTION" width="600">
+></a>
+>Try the Jobsearch API from Arbetsförmedlingen:
+><a href="" target="_blank">
+>  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/jobsearch_api.png?raw=true" alt="DESCRIPTION" width="600">
+></a>
+></details>
+><details>
+><summary>Connect to excel data</summary>
+>Your hidden content goes here.
+></details>
 
 ### Step 2 - Establish relationships between tables
 A relationship between two tables allows filtering the data of one table using a column in another table. For instance, in our example, in the *salaries* table, the column, *company_location*, shows the 2-digit country/territory code of the company for each worker. However, if we want to show the summation of salary of all workers working in a company in a specific continent, we need to make use of the *continent* column in the *countries* table. This is possible only if the two tables are connected by a relationship. 
