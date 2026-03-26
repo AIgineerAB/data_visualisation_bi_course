@@ -25,14 +25,26 @@ Now, set a gridline by clicking on *View* so that it is easier to place differen
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/metrics.png?raw=true" alt="powerbi setup" width="600">
 </a>
 
-Let's work on the second page of the report!
+In the second page of the report, *Further Analysis*, we will be using more types of visuals:
+- slicer
+- stacked column chart
+- table
+- treemap
+  
+>[!TIP]
+>Check out the reference, *Visuals Overview*, at the bottom of this chapter to create more visuals on your report. Note that when choosing a visual, you need to consider if it represents interesting insights from the data. 
+
+Follow the lecture video to create and format these visuals.Note that we can make use of the slicer called *Company Country/Territory* to zoom into a subset of data engineer records due to the relationship between the *countries* and *salaries* tables created in the semantic model. After creating all visuals, you can also notice that by default, there is cross-filtering between visuals on a report, meaning that by clicking into a data point in one visual will lead of filtering on another visuals as well. 
+
 <a href="https://youtu.be/s7hNlgqREt0" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/further_analysis.png?raw=true" alt="powerbi setup" width="600">
 </a>
 
-show the cross filter built in
-
-try reading view & insights from teh data? like ... questions
+>[!NOTE]
+>💡 **Try it yourself** <br>
+From this report, can you find out
+>- which job titles are most common around the data engineer records in the data?
+>- which job titles tends to earn more?
 
 ### US Economic trend Report
 
@@ -49,4 +61,5 @@ try reading view & insights from teh data? like ... questions
 ## Read more 👓
 [Power BI report](https://learn.microsoft.com/en-us/power-bi/create-reports/power-bi-reports-overview) <br>
 [Report Editor](https://learn.microsoft.com/en-us/power-bi/create-reports/service-the-report-editor-take-a-tour) <br>
-[Power BI dashboard](https://learn.microsoft.com/en-us/power-bi/create-reports/service-dashboards)
+[Power BI dashboard](https://learn.microsoft.com/en-us/power-bi/create-reports/service-dashboards) <br>
+[Visuals Overview](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualizations-overview)
