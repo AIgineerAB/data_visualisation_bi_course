@@ -5,22 +5,22 @@ Once you have created a semantic model containing your data, you can start to cr
 ## Power BI Reports
 
 ### Data Engineer Salary Report
+Create the first report by using the previously created semantic model. Choose a blank report:
 <a href="https://youtu.be/s7hNlgqREt0" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/create_report.png?raw=true" alt="powerbi setup" width="600">
 </a>
 
-choose the created semantic model
-
-create blank report
-
+You will then see the report editor where you can continue to work on your report. You also need to save your report to your workspace:
 <a href="https://youtu.be/s7hNlgqREt0" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/report_editor.png?raw=true" alt="powerbi setup" width="600">
 </a>
 
+Start by creating some layouts of your report, like creating two pages and using shapes to create a title:
 <a href="https://youtu.be/s7hNlgqREt0" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/basic_layout.png?raw=true" alt="powerbi setup" width="600">
 </a>
 
+Now, set a gridline by clicking on *View* so that it is easier to place different visuals on the report. Create visuals called *Card*. In each card, you can show the calculated measures as a KPI. Continue to edit the format of the card under the *Visualizations* panel:
 <a href="https://youtu.be/s7hNlgqREt0" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/metrics.png?raw=true" alt="powerbi setup" width="600">
 </a>
