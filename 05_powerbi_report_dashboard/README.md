@@ -3,6 +3,7 @@
 Once you have created a semantic model containing your data, you can start to create visualizations. There are two types of visualizations that you can create with Power BI: report and dashboard. A report is an interactive and multi-page document that presents the data in your semantic model with graphs and texts. While a dashboard is a single page document that shows a selection of graphs from different Power BI reports, which gives an overview of highlights from different reports. Therefore, a report is created using a semantic model, and a dashboard is created using multiple reports. The coming sections will guide you through the creation of two reports and a dashboard. 
 
 ## Power BI Reports
+We will create a blank report and auto-create another report in this section.
 
 ### Data Engineer Salary Report
 Create the first report by using the previously created semantic model. Choose a blank report:
@@ -40,21 +41,19 @@ Follow the lecture video to create and format these visuals.Note that we can mak
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/further_analysis.png?raw=true" alt="powerbi setup" width="600">
 </a>
 
+<br>
+
 >[!NOTE]
 >💡 **Try it yourself** <br>
 From this report, can you find out
 >- which job titles are most common around the data engineer records in the data?
 >- which job titles tends to earn more?
 
-### US Economic trend Report
-
-
+### Auto-created Report
+Try to create another report using the same semantic model. But now, instead of creating a blank report, choose *Auto-create report*. Power BI will design a report for you based on its understanding on the data. 
 
 ## Power BI Dashboard
-
-
-
-
+We have two reports now in our workspace. The next step is to create a dashboard to show some highlights of both reports. The intention of the dashboard is that readers will look at the dashboard first, then via the dashboard look into a specific report if they are interested to look into more analyses of a certain topic. 
 
 ## Other videos 📹
 
