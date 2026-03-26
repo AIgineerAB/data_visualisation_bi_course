@@ -55,6 +55,24 @@ Try to create another report using the same semantic model. But now, instead of 
 ## Power BI Dashboard
 We have two reports now in our workspace. The next step is to create a dashboard to show some highlights of both reports. The intention of the dashboard is that readers will look at the dashboard first, then via the dashboard look into a specific report if they are interested to look into more analyses of a certain topic. 
 
+>[!IMPORTANT]
+>As mentioned in chapter 3 when we set up Power BI, we are using Power BI Service. Dashboard is not supported in Power BI Desktop at this moment. 
+
+A dashboard can be created easily by pinning visuals that you would like to put into a dashboard from existing reports:
+<a href="https://youtu.be/s7hNlgqREt0" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/pin_visual.png?raw=true" alt="powerbi setup" width="600">
+</a>
+
+After pinning a visual, Power BI will prompt you to name a new dashboard and you will find a dashboard in your workspace:
+<a href="https://youtu.be/s7hNlgqREt0" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/dashboard_in_workspace.png?raw=true" alt="powerbi setup" width="600">
+</a>
+
+For each of the chosen visuals on the dashboard, you can click on the title of the visual and Power BI will open directly a specific page of a specific report for you to continue checking more visuals for a certain topic:
+<a href="https://youtu.be/s7hNlgqREt0" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/dashboard_link_report.png?raw=true" alt="powerbi setup" width="600">
+</a>
+
 ## Other videos 📹
 
 ## Read more 👓
@@ -62,3 +80,4 @@ We have two reports now in our workspace. The next step is to create a dashboard
 [Report Editor](https://learn.microsoft.com/en-us/power-bi/create-reports/service-the-report-editor-take-a-tour) <br>
 [Power BI dashboard](https://learn.microsoft.com/en-us/power-bi/create-reports/service-dashboards) <br>
 [Visuals Overview](https://learn.microsoft.com/en-us/power-bi/visuals/power-bi-visualizations-overview)
+[Create a dashboard](https://learn.microsoft.com/en-us/power-bi/create-reports/service-dashboard-create)
