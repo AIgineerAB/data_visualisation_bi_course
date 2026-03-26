@@ -126,6 +126,13 @@ Total Salary Middle = CALCULATE(SUM(salaries[salary_in_usd]), salaries[experienc
 
 These measures will be used to visualize KPIs in the next chapter. 
 
+>[!TIP]
+>Create more measures that will be used in the nex chapter, representing:
+>- average salary of all data engineers
+>- the number of senior-level data engineers
+>- the number of middle-level data engineers
+>- the number of entry-level data engineers
+
 ## Other videos 📹
 
 ## Read more 👓
