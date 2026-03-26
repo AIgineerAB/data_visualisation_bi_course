@@ -25,6 +25,9 @@ Now, set a gridline by clicking on *View* so that it is easier to place differen
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/metrics.png?raw=true" alt="powerbi setup" width="600">
 </a>
 
+
+show the cross filter built in
+
 ### US Economic trend Report
 
 
@@ -38,6 +41,6 @@ Now, set a gridline by clicking on *View* so that it is easier to place differen
 ## Other videos 📹
 
 ## Read more 👓
-[Power BI report](https://learn.microsoft.com/en-us/power-bi/create-reports/power-bi-reports-overview)
-[Report Editor](https://learn.microsoft.com/en-us/power-bi/create-reports/service-the-report-editor-take-a-tour)
+[Power BI report](https://learn.microsoft.com/en-us/power-bi/create-reports/power-bi-reports-overview) <br>
+[Report Editor](https://learn.microsoft.com/en-us/power-bi/create-reports/service-the-report-editor-take-a-tour) <br>
 [Power BI dashboard](https://learn.microsoft.com/en-us/power-bi/create-reports/service-dashboards)
