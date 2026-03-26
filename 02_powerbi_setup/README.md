@@ -4,9 +4,6 @@
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/power_bi_setup.png?raw=true" alt="powerbi setup" width="600">
 </a>
 
-
-
-
 ## Instructions
 We will be using Power BI Services (hereafter "Power BI"), which is an online tool for creating visualizations. Following the instructions below to get access to a 60-day free trial of Power BI.
 
