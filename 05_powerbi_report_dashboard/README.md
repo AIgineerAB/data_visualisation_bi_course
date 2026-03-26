@@ -25,8 +25,14 @@ Now, set a gridline by clicking on *View* so that it is easier to place differen
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/metrics.png?raw=true" alt="powerbi setup" width="600">
 </a>
 
+Let's work on the second page of the report!
+<a href="https://youtu.be/s7hNlgqREt0" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/further_analysis.png?raw=true" alt="powerbi setup" width="600">
+</a>
 
 show the cross filter built in
+
+try reading view & insights from teh data? like ... questions
 
 ### US Economic trend Report
 
