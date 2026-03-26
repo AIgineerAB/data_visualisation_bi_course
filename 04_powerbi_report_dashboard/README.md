@@ -17,6 +17,14 @@ create blank report
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/report_editor.png?raw=true" alt="powerbi setup" width="600">
 </a>
 
+<a href="https://youtu.be/s7hNlgqREt0" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/basic_layout.png?raw=true" alt="powerbi setup" width="600">
+</a>
+
+<a href="https://youtu.be/s7hNlgqREt0" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/metrics.png?raw=true" alt="powerbi setup" width="600">
+</a>
+
 ### US Economic trend Report
 
 
