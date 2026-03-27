@@ -2,6 +2,12 @@
 
 Once you have created a semantic model containing your data, you can start to create visualizations. There are two types of visualizations that you can create with Power BI: report and dashboard. A report is an interactive and multi-page document that presents the data in your semantic model with graphs and texts. While a dashboard is a single page document that shows a selection of graphs from different Power BI reports, which gives an overview of highlights from different reports. Therefore, a report is created using a semantic model, and a dashboard is created using multiple reports. The coming sections will guide you through the creation of two reports and a dashboard. 
 
+
+<a href="https://youtu.be/Yduf9-SFUuA" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/pbi_report.png?raw=true" alt="powerbi setup" width="600">
+</a>
+
+
 ## Power BI Reports
 We will create a blank report and auto-create another report in this section.
 
