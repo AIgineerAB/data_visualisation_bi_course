@@ -61,6 +61,7 @@ Similar to conditional formatting, some visuals have overlaid analytics enabled.
 You can capture selections of multiple slicers of a report page by adding a bookmark. A bookmark is very useful if you are going to present interesting insights from a certain state of the report during a presentation. <br>
 
 You need to first show the bookmark pane: 
+
 <a href="https://youtu.be/s7hNlgqREt0" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/add_bookmark.png?raw=true" alt="powerbi" width="600">
 </a>
