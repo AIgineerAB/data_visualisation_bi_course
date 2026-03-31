@@ -68,6 +68,7 @@ You need to first show the bookmark pane:
 
 <br>
 Then, you can add a bookmark:
+
 <a href="https://youtu.be/s7hNlgqREt0" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/edit_bookmark.png?raw=true" alt="powerbi" width="600">
 </a>
@@ -75,6 +76,7 @@ Then, you can add a bookmark:
 
 #### Buttons
 A button is a shortcut on the report. Button is often used with bookmarks because the action of a shortcut can be jumping to a bookmark. This let readers to visit the bookmark easily:
+
 <a href="https://youtu.be/s7hNlgqREt0" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/add_button.png?raw=true" alt="powerbi" width="600">
 </a>
