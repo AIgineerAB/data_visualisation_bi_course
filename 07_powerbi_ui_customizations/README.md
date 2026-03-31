@@ -58,7 +58,7 @@ Similar to conditional formatting, some visuals have overlaid analytics enabled.
 ### Others
 
 #### Bookmarks
-You can capture selections of multiple slicers of a report page by adding a bookmark. A bookmark is very useful if you are going to present interesting insights from a certain state of the report during a presentation. 
+You can capture selections of multiple slicers of a report page by adding a bookmark. A bookmark is very useful if you are going to present interesting insights from a certain state of the report during a presentation. <br>
 
 You need to first show the bookmark pane: 
 <a href="https://youtu.be/s7hNlgqREt0" target="_blank">
