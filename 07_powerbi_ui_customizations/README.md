@@ -64,8 +64,8 @@ You need to first show the bookmark pane:
 <a href="https://youtu.be/s7hNlgqREt0" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/add_bookmark.png?raw=true" alt="powerbi" width="600">
 </a>
-<br>
 
+<br>
 Then, you can add a bookmark:
 <a href="https://youtu.be/s7hNlgqREt0" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/edit_bookmark.png?raw=true" alt="powerbi" width="600">
