@@ -22,7 +22,7 @@ In this exercise, work with this dataset `norway_new_car_sales_by_month.csv`
 
 &nbsp; h) Discuss some findings with a friend based on this dataset, and do plot more graphs
 
-## 1. Phone prices 
+## 1. Phone prices
 
 Use this [phone price dataset](https://www.kaggle.com/datasets/rkiattisak/mobile-phone-price) and explore this.
 
@@ -48,7 +48,6 @@ DESCRIPTION
 
 &nbsp; c)
 
-
 ## 5. Theory questions
 
 &nbsp; a) When can you make line charts and when can't you make line charts?
@@ -65,20 +64,19 @@ DESCRIPTION
 
 &nbsp; e) How do you draw an arrow in matplotlib?
 
-
 ## Glossary
 
 Fill in this table either by copying this into your own markdown file or copy it into a spreadsheet if you feel that is easier to work with.
 
-| terminology | explanation |
-| ----------- | ----------- |
-|             |             |
-|             |             |
-|             |             |
-|             |             |
-|             |             |
-|             |             |
-|             |             |
-|             |             |
-|             |             |
-|             |             |
+| terminology         | explanation |
+| ------------------- | ----------- |
+| histogram           |             |
+| data cleaning       |             |
+| data transformation |             |
+| casting             |             |
+| bar chart           |             |
+| semantic model      |             |
+| power bi            |             |
+| data visualization  |             |
+|                     |             |
+|                     |             |
