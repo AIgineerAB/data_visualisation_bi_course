@@ -67,6 +67,7 @@ You need to first show the bookmark pane:
 </a>
 
 <br>
+
 Then, you can add a bookmark:
 
 <a href="https://youtu.be/s7hNlgqREt0" target="_blank">
