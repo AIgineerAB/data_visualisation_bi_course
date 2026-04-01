@@ -1,6 +1,6 @@
-# Exercise 0 - EDA in python and basics of PowerBI
+# Exercise 0 - EDA in python and basics of Power BI
 
-In this exercise, you get to familiarize yourself with ...
+In this exercise, you will continue working with EDA with pandas and Power BI semantic model.
 
 ## 0. Car sales in Norway - emissions and trends
 
@@ -38,7 +38,7 @@ Use this [phone price dataset](https://www.kaggle.com/datasets/rkiattisak/mobile
 
 &nbsp; f) Do more data cleaning and EDAs
 
-## 2. PowerBI exercise coming soon
+## 2. Power BI Semantic Model
 
 DESCRIPTION
 
