@@ -1,4 +1,4 @@
-# Exercise 0 -
+# Exercise 0 - EDA Pandas & Power BI Semantic Model
 
 In this exercise, you get to familiarize yourself with ...
 
