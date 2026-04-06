@@ -1,6 +1,6 @@
-# Exercise 0 - EDA in python and basics of PowerBI
+# Exercise 0 - EDA in python and basics of Power BI
 
-In this exercise, you get to familiarize yourself with ...
+In this exercise, you will continue working with EDA with pandas and Power BI semantic model.
 
 ## 0. Car sales in Norway - emissions and trends
 
@@ -38,15 +38,20 @@ Use this [phone price dataset](https://www.kaggle.com/datasets/rkiattisak/mobile
 
 &nbsp; f) Do more data cleaning and EDAs
 
-## 2. PowerBI exercise coming soon
+## 2. Power BI Semantic Model
 
-DESCRIPTION
+In this exercise, you will continue working with the semantic model created in the class with bike store data. You will explore more on DAX functions to create more measures on the same semantic model. 
 
-&nbsp; a)
+If you have not worked on the in-class exercise, complete the in-class exercise [here](https://github.com/kokchun/data_vizualisation_kokchun_giang_de25/blob/main/04_semantic_model/powerbi_semantic_model.md) first.
 
-&nbsp; b)
+&nbsp; a) Create a measure to show the number of orders made in the store *Baldwin Bikes*. 
 
-&nbsp; c)
+&nbsp; b) For each of the order, there are *order_date* and *required_date*. The number of days between these two dates shows how long a customer would like to wait before the shipping. Now, create a measure that presents the average number of days between these two dates across all order. 
+
+You can make use of these two DAX functions to define this measure: [*DATEDIFF()*](https://learn.microsoft.com/en-us/dax/datediff-function-dax) and [*AVERAGEX()*](https://learn.microsoft.com/en-us/dax/averagex-function-dax). Check out the links of documentations of these functions to understand how to use them. What is the difference between the DAX functions *AVERAGE()* and *AVERAGEX()*?
+
+&nbsp; c) Can you round the measure in question a) to integer? Check out the DAX function [*ROUND()*](https://learn.microsoft.com/en-us/dax/round-function-dax).
+
 
 ## 5. Theory questions
 
@@ -64,6 +69,12 @@ DESCRIPTION
 
 &nbsp; e) How do you draw an arrow in matplotlib?
 
+&nbsp; f) Why do you need to create a semantic model in Power BI?
+
+&nbsp; g) What is the difference between data source and semantic model in Power BI?
+
+&nbsp; h) What is the difference between Power BI desktop and Power BI service?
+
 ## Glossary
 
 Fill in this table either by copying this into your own markdown file or copy it into a spreadsheet if you feel that is easier to work with.
@@ -78,5 +89,6 @@ Fill in this table either by copying this into your own markdown file or copy it
 | semantic model      |             |
 | power bi            |             |
 | data visualization  |             |
-|                     |             |
-|                     |             |
+| DAX                 |             |
+| power query         |             |
+| workspace           |             |
