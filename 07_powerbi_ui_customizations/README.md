@@ -95,9 +95,10 @@ A button is a shortcut on the report. Button is often used with bookmarks becaus
 Now we are going to refine the design of our report so that it is more readable. As we do not have many visuals that analyze different aspects of the data in this report, we will put all visuals in one page. This is the final version of our report:
 
 <a href="https://youtu.be/s7hNlgqREt0" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/report_design.png?raw=true" alt="powerbi" width="600">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/report_design.png?raw=true" alt="powerbi" width="300">
 </a>
 <br><br>
+
 Here are some usual considerations to improve the report design:
 
 ### Choice of Visuals
@@ -117,7 +118,7 @@ In our report:
 - we have placed the title of the dashboard and other elements for user interaction on the top panel
 - size and position settings are used to align visuals. You can select multiple visuals by clicking ```ctrl``` and edit these settings for them together
 <a href="https://youtu.be/s7hNlgqREt0" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/alignment.png?raw=true" alt="powerbi" width="600">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/alignment.png?raw=true" alt="powerbi" width="300">
 </a>
 <br><br>
 
@@ -125,7 +126,7 @@ In our report:
 Think about a set of colors for report wallpaper, visual background, visual font etc. Then apply the same set of colors in the entire report. In our report, we are using these choices:
 
 <a href="https://youtu.be/s7hNlgqREt0" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/color.png?raw=true" alt="powerbi" width="600">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/color.png?raw=true" alt="powerbi" width="300">
 </a>
 <br><br>
 
@@ -145,7 +146,7 @@ We have used rounded corners for all visuals and buttons on the report because t
 For each of the visual, under *General*, you can edit the *Visual border* to make the corners of the visual rounded:
 
 <a href="https://youtu.be/s7hNlgqREt0" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/rounded_corner.png?raw=true" alt="powerbi" width="600">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/rounded_corner.png?raw=true" alt="powerbi" width="300">
 </a>
 <br><br>
 
@@ -160,14 +161,14 @@ We show the values on the cards in this way:
 In order to so so, you need to first customerize the *data format* of the card visual:
 
 <a href="https://youtu.be/s7hNlgqREt0" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/data_format.png?raw=true" alt="powerbi" width="600">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/data_format.png?raw=true" alt="powerbi" width="300">
 </a>
 <br><br>
 
 Then, also deselect the use of the letter *K* as the suffix:
 
 <a href="https://youtu.be/s7hNlgqREt0" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/display_unit.png?raw=true" alt="powerbi" width="600">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/display_unit.png?raw=true" alt="powerbi" width="300">
 </a>
 <br><br>
 
@@ -175,7 +176,7 @@ Then, also deselect the use of the letter *K* as the suffix:
 You should always leave white space in your report. The report or any other type of visualizations should not be completely covered with information in forms of texts or data. Otherwise, it is difficult for readers to focus on the data itself. For most visuals, you can control this by adjusting *padding*:
 
 <a href="https://youtu.be/s7hNlgqREt0" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/padding.png?raw=true" alt="powerbi" width="600">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/padding.png?raw=true" alt="powerbi" width="300">
 </a>
 <br><br>
 
