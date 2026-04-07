@@ -95,7 +95,7 @@ A button is a shortcut on the report. Button is often used with bookmarks becaus
 Now we are going to refine the design of our report so that it is more readable. As we do not have many visuals that analyze different aspects of the data in this report, we will put all visuals in one page. This is the final version of our report:
 
 <a href="https://youtu.be/s7hNlgqREt0" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/report_design.png?raw=true" alt="powerbi" width="300">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/report_design.png?raw=true" alt="powerbi" width="600">
 </a>
 <br><br>
 
@@ -105,7 +105,7 @@ Here are some usual considerations to improve the report design:
 It's important to choose a suitable visual to present certain data. For instance, instead of using three cards to show the number of data engineers at different experience levels, a donut chart is a better choice to present these data:
 
 <a href="https://youtu.be/s7hNlgqREt0" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/donut_chart.png?raw=true" alt="powerbi" width="600">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/donut_chart.png?raw=true" alt="powerbi" width="300">
 </a>
 <br><br>
 
