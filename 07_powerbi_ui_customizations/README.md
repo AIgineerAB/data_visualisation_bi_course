@@ -92,7 +92,26 @@ A button is a shortcut on the report. Button is often used with bookmarks becaus
 >Check out the reference at the bottom of this chapter, *Enhance user experience*, to find out more Power BI features for user experience
 
 ## Graphical Design
-(*TODO*)
+Now we are going to refine the design of our report so that it is more readable. As we do not have many visuals with analyzing different aspects of the data in this report, we will put all visuals in one page. This is the final version of our report:
+
+<a href="https://youtu.be/s7hNlgqREt0" target="_blank">
+  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/report_design.png?raw=true" alt="powerbi" width="600">
+</a>
+<br><br>
+Follow instructions below to modify the report:
+
+### Alignment
+
+### Color Theme
+
+### Uniform Font
+
+### Rounded Corners
+
+### Value Format
+
+### Padding
+
 
 ## Other videos 📹
 
