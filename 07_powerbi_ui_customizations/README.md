@@ -151,16 +151,21 @@ For each of the visual, under *General*, you can edit the *Visual border* to mak
 
 ### Value Format
 We show the values on the cards in this way:
+
 <a href="https://youtu.be/s7hNlgqREt0" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/value_format.png?raw=true" alt="powerbi" width="600">
 </a>
 <br><br>
+
 In order to so so, you need to first customerize the *data format* of the card visual:
+
 <a href="https://youtu.be/s7hNlgqREt0" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/data_format.png?raw=true" alt="powerbi" width="600">
 </a>
 <br><br>
+
 Then, also deselect the use of the letter *K* as the suffix:
+
 <a href="https://youtu.be/s7hNlgqREt0" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/display_unit.png?raw=true" alt="powerbi" width="600">
 </a>
@@ -168,6 +173,7 @@ Then, also deselect the use of the letter *K* as the suffix:
 
 ### Padding
 You should always leave white space in your report. The report or any other type of visualizations should not be completely covered with information in forms of texts or data. Otherwise, it is difficult for readers to focus on the data itself. For most visuals, you can control this by adjusting *padding*:
+
 <a href="https://youtu.be/s7hNlgqREt0" target="_blank">
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/padding.png?raw=true" alt="powerbi" width="600">
 </a>
