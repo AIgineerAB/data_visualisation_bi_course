@@ -53,7 +53,7 @@ You can make use of these two DAX functions to define this measure: [*DATEDIFF()
 &nbsp; c) Can you round the measure in question a) to integer? Check out the DAX function [*ROUND()*](https://learn.microsoft.com/en-us/dax/round-function-dax).
 
 
-## 5. Theory questions
+## 3. Theory questions
 
 &nbsp; a) When can you make line charts and when can't you make line charts?
 
