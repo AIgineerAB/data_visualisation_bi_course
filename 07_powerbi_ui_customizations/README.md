@@ -71,14 +71,11 @@ You can capture selections of multiple slicers of a report page by adding a book
 
 You need to first show the bookmark pane:
 
-
 <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/add_bookmark.png?raw=true" alt="powerbi" width="600">
-
 
 <br>
 
 Then, you can add a bookmark:
-
 
 <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/edit_bookmark.png?raw=true" alt="powerbi" width="600">
 
@@ -87,7 +84,6 @@ Then, you can add a bookmark:
 #### Buttons
 
 A button is a shortcut on the report. Button is often used with bookmarks because the action of a shortcut can be jumping to a bookmark. This let readers to visit the bookmark easily:
-
 
 <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/add_button.png?raw=true" alt="powerbi" width="600">
 
@@ -100,7 +96,6 @@ A button is a shortcut on the report. Button is often used with bookmarks becaus
 
 Now we are going to refine the design of our report so that it is more readable. As we do not have many visuals that analyze different aspects of the data in this report, we will put all visuals in one page. This is the final version of our report:
 
-
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/report_design.png?raw=true" alt="powerbi" width="600">
 
 <br><br>
@@ -110,7 +105,6 @@ Here are some usual considerations to improve the report design:
 ### Choice of Visuals
 
 It's important to choose a suitable visual to present certain data. For instance, instead of using three cards to show the number of data engineers at different experience levels, a donut chart is a better choice to present these data:
-
 
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/donut_chart.png?raw=true" alt="powerbi" width="300">
 
@@ -129,7 +123,7 @@ In our report:
 
 <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/alignment.png?raw=true" alt="powerbi" width="200">
 
-  <br><br>
+<br><br>
 
 ### Color Theme
 
