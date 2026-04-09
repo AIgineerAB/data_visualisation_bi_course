@@ -3,8 +3,9 @@
 After creating a report that is showing the data correctly, it is also important to improve the user interface of the report. Follow this chapter to improve the UI of the report that we have built in chapter 5.
 
 Video - part 1 for UI Features
-
+<a href="https://www.youtube.com/watch?v=8F2H1Vq-ToA" target="_blank">
 <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/pbi_ui.png?raw=true" alt="powerbi ui features" width="600">
+</a>
 
 Video - part 2 for Graphical Design (_TODO_)
 
@@ -58,7 +59,7 @@ Some components of some visuals have conditional formatting enabled. For these c
 
 Similar to conditional formatting, some visuals have overlaid analytics enabled. For these visuals, you can see options under the _Analytics_ pane. You can then add analytics components on the visuals for highlighting your insights:
 
-  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/analytics_pane.png?raw=true" alt="powerbi" width="600">
+<img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/analytics_pane.png?raw=true" alt="powerbi" width="600">
 
 <br>
 
@@ -70,26 +71,26 @@ You can capture selections of multiple slicers of a report page by adding a book
 
 You need to first show the bookmark pane:
 
-<a href="https://youtu.be/s7hNlgqREt0" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/add_bookmark.png?raw=true" alt="powerbi" width="600">
-</a>
+
+<img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/add_bookmark.png?raw=true" alt="powerbi" width="600">
+
 
 <br>
 
 Then, you can add a bookmark:
 
-<a href="https://youtu.be/s7hNlgqREt0" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/edit_bookmark.png?raw=true" alt="powerbi" width="600">
-</a>
+
+<img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/edit_bookmark.png?raw=true" alt="powerbi" width="600">
+
 <br>
 
 #### Buttons
 
 A button is a shortcut on the report. Button is often used with bookmarks because the action of a shortcut can be jumping to a bookmark. This let readers to visit the bookmark easily:
 
-<a href="https://youtu.be/s7hNlgqREt0" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/add_button.png?raw=true" alt="powerbi" width="600">
-</a>
+
+<img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/add_button.png?raw=true" alt="powerbi" width="600">
+
 <br><br>
 
 > [!TIP]
@@ -99,9 +100,9 @@ A button is a shortcut on the report. Button is often used with bookmarks becaus
 
 Now we are going to refine the design of our report so that it is more readable. As we do not have many visuals that analyze different aspects of the data in this report, we will put all visuals in one page. This is the final version of our report:
 
-<a href="https://youtu.be/s7hNlgqREt0" target="_blank">
+
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/report_design.png?raw=true" alt="powerbi" width="600">
-</a>
+
 <br><br>
 
 Here are some usual considerations to improve the report design:
@@ -110,9 +111,9 @@ Here are some usual considerations to improve the report design:
 
 It's important to choose a suitable visual to present certain data. For instance, instead of using three cards to show the number of data engineers at different experience levels, a donut chart is a better choice to present these data:
 
-<a href="https://youtu.be/s7hNlgqREt0" target="_blank">
+
   <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/donut_chart.png?raw=true" alt="powerbi" width="300">
-</a>
+
 <br><br>
 
 Two other cards are added to present other metrics, highlighting the overview of the data.
@@ -125,18 +126,17 @@ In our report:
 
 - we have placed the title of the dashboard and other elements for user interaction on the top panel
 - size and position settings are used to align visuals. You can select multiple visuals by clicking `ctrl` and edit these settings for them together
-  <a href="https://youtu.be/s7hNlgqREt0" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/alignment.png?raw=true" alt="powerbi" width="300">
-  </a>
+
+<img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/alignment.png?raw=true" alt="powerbi" width="200">
+
   <br><br>
 
 ### Color Theme
 
 Think about a set of colors for report wallpaper, visual background, visual font etc. Then apply the same set of colors in the entire report. In our report, we are using these choices:
 
-<a href="https://youtu.be/s7hNlgqREt0" target="_blank">
-  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/color.png?raw=true" alt="powerbi" width="300">
-</a>
+<img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/color.png?raw=true" alt="powerbi" width="300">
+
 <br><br>
 
 These choices consider letting readers to focus on the data itself.
@@ -157,7 +157,7 @@ We have used rounded corners for all visuals and buttons on the report because t
 
 For each of the visual, under _General_, you can edit the _Visual border_ to make the corners of the visual rounded:
 
-<img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/rounded_corner.png?raw=true" alt="powerbi" width="300">
+<img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/rounded_corner.png?raw=true" alt="powerbi" width="200">
 
 <br><br>
 
@@ -171,13 +171,13 @@ We show the values on the cards in this way:
 
 In order to so so, you need to first customerize the _data format_ of the card visual:
 
-  <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/data_format.png?raw=true" alt="powerbi" width="300">
+<img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/data_format.png?raw=true" alt="powerbi" width="200">
 
 <br><br>
 
 Then, also deselect the use of the letter _K_ as the suffix:
 
-<img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/display_unit.png?raw=true" alt="powerbi" width="300">
+<img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/display_unit.png?raw=true" alt="powerbi" width="200">
 
 <br><br>
 
@@ -185,7 +185,7 @@ Then, also deselect the use of the letter _K_ as the suffix:
 
 You should always leave white space in your report. The report or any other type of visualizations should not be completely covered with information in forms of texts or data. Otherwise, it is difficult for readers to focus on the data itself. For most visuals, you can control this by adjusting _padding_:
 
-<img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/padding.png?raw=true" alt="powerbi" width="300">
+<img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/padding.png?raw=true" alt="powerbi" width="200">
 
 <br><br>
 
