@@ -7,7 +7,11 @@ Video - part 1 for UI Features
 <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/pbi_ui.png?raw=true" alt="powerbi ui features" width="600">
 </a>
 
-Video - part 2 for Graphical Design (_TODO_)
+Video - part 2 for Graphical Design
+
+<a href="https://youtu.be/E0WGMR18Sdg" target="_blank">
+<img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/pbi_design.png?raw=true" alt="powerbi graphical design" width="600">
+</a>
 
 ## UI Features
 
