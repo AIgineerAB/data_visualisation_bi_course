@@ -3,6 +3,7 @@
 After creating a report that is showing the data correctly, it is also important to improve the user interface of the report. Follow this chapter to improve the UI of the report that we have built in chapter 5.
 
 Video - part 1 for UI Features
+
 <a href="https://www.youtube.com/watch?v=8F2H1Vq-ToA" target="_blank">
 <img src="https://github.com/kokchun/assets/blob/main/data_visualization_powerbi/pbi_ui.png?raw=true" alt="powerbi ui features" width="600">
 </a>
